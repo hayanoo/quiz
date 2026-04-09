@@ -1,0 +1,32 @@
+[
+  {
+    "id": "DANG1",
+    "name": "Đề thi mẫu Dạng 1 (Toán)",
+    "type": 1,
+    "keys": {
+      "multipleChoice": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D", "A", "B"],
+      "trueFalse": [
+        ["T", "F", "T", "F"],
+        ["T", "T", "F", "F"],
+        ["F", "F", "T", "T"],
+        ["T", "F", "F", "T"]
+      ],
+      "shortAnswer": ["12", "3.14", "-5", "100", "0", "42"]
+    }
+  },
+  {
+    "id": "DANG2",
+    "name": "Đề thi mẫu Dạng 2 (Lý)",
+    "type": 2,
+    "keys": {
+      "multipleChoice": ["A", "B", "C", "D", "A", "B", "C", "D", "A", "B", "C", "D"],
+      "trueFalse": [
+        ["T", "F", "T", "F"],
+        ["T", "T", "F", "F"],
+        ["F", "F", "T", "T"],
+        ["T", "F", "F", "T"]
+      ],
+      "shortAnswer": ["12", "3.14", "-5", "100", "0", "42"]
+    }
+  }
+]

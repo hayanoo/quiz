@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Trắc nghiệm",
+  "description": "Nền tảng thi trắc nghiệm giao diện tối (Dark Mode) với tính năng chấm điểm tự động cho nhiều dạng câu hỏi.",
+  "requestFramePermissions": []
+}
